@@ -16,7 +16,7 @@ int main()
     
     TestTool_Print_Value(test_a);
 
-    TestTool_Generate(0,0,test_b);
+    TestTool_Generate(8,12,test_b);
 
     TestTool_Calculate(test_a,test_b);
 
